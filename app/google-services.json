@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970088597260",
+    "firebase_url": "https://rememberme-3a689.firebaseio.com",
+    "project_id": "rememberme-3a689",
+    "storage_bucket": "rememberme-3a689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970088597260:android:f0923f0dc32d9f8506ab29",
+        "android_client_info": {
+          "package_name": "com.example.rememberit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970088597260-a9ouj59tdr8bt0tp5n9qdclmr4hsv556.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rememberit",
+            "certificate_hash": "50dc8244214b02c04bc05fdb94931b75edbf7c59"
+          }
+        },
+        {
+          "client_id": "970088597260-vvedl9fveos7ik3443m0c8p1vjnf8bik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblWY67GYH2MuEtKHxS3kS2SISAB-accE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970088597260-vvedl9fveos7ik3443m0c8p1vjnf8bik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
